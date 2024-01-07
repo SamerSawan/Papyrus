@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04374ABF2B465FF200DDF0DF /* ReadingChallengeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04374ABE2B465FF200DDF0DF /* ReadingChallengeView.swift */; };
 		04C37E352AEF26DB00319154 /* PapyrusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37E342AEF26DB00319154 /* PapyrusApp.swift */; };
 		04C37E372AEF26DB00319154 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37E362AEF26DB00319154 /* ContentView.swift */; };
 		04C37E392AEF26DC00319154 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04C37E382AEF26DC00319154 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		04374ABE2B465FF200DDF0DF /* ReadingChallengeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingChallengeView.swift; sourceTree = "<group>"; };
 		04C37E312AEF26DB00319154 /* Papyrus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Papyrus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C37E342AEF26DB00319154 /* PapyrusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PapyrusApp.swift; sourceTree = "<group>"; };
 		04C37E362AEF26DB00319154 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 			children = (
 				04C37E5F2AEF273A00319154 /* HomeView.swift */,
 				04C37E612AEF3FD400319154 /* HeroView.swift */,
+				04374ABE2B465FF200DDF0DF /* ReadingChallengeView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 			files = (
 				04C37E602AEF273A00319154 /* HomeView.swift in Sources */,
 				04C37E372AEF26DB00319154 /* ContentView.swift in Sources */,
+				04374ABF2B465FF200DDF0DF /* ReadingChallengeView.swift in Sources */,
 				04C37E622AEF3FD400319154 /* HeroView.swift in Sources */,
 				04C37E352AEF26DB00319154 /* PapyrusApp.swift in Sources */,
 			);

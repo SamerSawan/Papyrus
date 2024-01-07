@@ -1,16 +1,10 @@
-//
-//  HomeView.swift
-//  Papyrus
-//
-//  Created by Samer Sawan on 2023-10-29.
-//
-
 import SwiftUI
 
 struct HomeView: View {
     var body: some View {
         VStack{
             HeroView()
+            ReadingChallengeView()
                 
         }
         .frame(maxWidth: .infinity,
